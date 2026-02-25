@@ -1,4 +1,4 @@
-![logo](https://github.com/vrmanojkumar/vrmanojkumar/blob/main/GitHub%20Banner%20(2).png)
+![logo](https://github.com/vrmanojkumar/vrmanojkumar/blob/main/V_R_MANOJ_KUMAR_Banner_1500x500.png)
 <h1 align="center">Hi 👋, I'm V R Manoj Kumar</h1>
 
 <p align="center">
